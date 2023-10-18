@@ -18,7 +18,7 @@ def sumar_numero(nuevo_numero):
 # se define variable para el nuevo numero
      print(nuevo_numero)
 numeros=0
-print("Biembenido jugador  presiona la tecla 'n' para iniciar el juego: ")
+print("Bienvenido jugador  presiona la tecla 'n' para iniciar el juego: ")
 while True:
      letra=readkey()
      if letra =='n':
