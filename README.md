@@ -5,4 +5,4 @@ crear juego de laberinto
 nombre_jugador = input("escriba normbre , por favor: ")
 
 # Imprimir un mensaje de bienvenida con el nombre
-print("Biembenido! ,", nombre_jugador,   "!")
+print("Bienvenido! ,", nombre_jugador,   "!")
