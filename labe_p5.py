@@ -60,7 +60,7 @@ class Juego(BaseModel):
                 py -= 1
             elif tecla == key.RIGHT and py < len(self.mapa[0]) - 1 and self.mapa[px][py + 1] != '#':
                 py += 1
-        print("felicidades jugador saliste del laberinto")
+        print("felicidades jugador has ganado ,  saliste del laberinto")
     
 class JuegoArchivo():
     def __init__(self):
