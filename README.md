@@ -1,8 +1,3 @@
-# laberinto
-crear juego de laberinto
+En este proyecto integrador el objetivo es crear un laberinto el cual se realizara paso a paso deacuerdo a las instrucciones y requisitos suministrada en cada fase del proyecto .
 
-# solicitar el nombre del jugador por teclado 
-nombre_jugador = input("escriba normbre , por favor: ")
 
-# Imprimir un mensaje de bienvenida con el nombre
-print("Bienvenido! ,", nombre_jugador,   "!")
